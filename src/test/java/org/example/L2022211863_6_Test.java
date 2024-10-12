@@ -79,3 +79,4 @@ class L2022211863_6_Test {
         assertEquals(expected, s.peopleIndexes(favoriteCompanies));
     }
 }
+//改的不错
